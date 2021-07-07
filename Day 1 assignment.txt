@@ -1,0 +1,8 @@
+//to Print *****
+
+x=""
+for(i=0;i<=5;i++)
+{
+x=x+ "*"
+}
+console.log(x)
