@@ -1,8 +1,9 @@
-//to Print *****
+for (i = 0; i <= 0; i++){
+    var value = "";
 
-x=""
-for(i=0;i<=5;i++)
-{
-x=x+ "*"
+    for (j = 0; j <= 4; j++){
+        value=value+" *";
+    }
+
+console.log(value);
 }
-console.log(x)
